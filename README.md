@@ -1,4 +1,4 @@
-# VIS-B
+# VISION 3.0
 Problem Statement:
 
 People who are blind have difficulties moving around, reading text, and recognizing objects.
